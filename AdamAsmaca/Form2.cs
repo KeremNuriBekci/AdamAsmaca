@@ -21,7 +21,7 @@ namespace AdamAsmaca
         {
             char[] alfabe = "ABCDEFGHIİJKLMNOÖPRSŞTUÜVYZ".ToCharArray();
 
-            
+            // bu kod Nilay Ünsal tarafından eklendi
         }
     }
 }
